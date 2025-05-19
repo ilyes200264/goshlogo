@@ -1,0 +1,1 @@
+export { RestaurantList, RestaurantVerticalList } from './RestaurantList';

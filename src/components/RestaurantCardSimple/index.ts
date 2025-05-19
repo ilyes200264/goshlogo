@@ -1,0 +1,1 @@
+export { RestaurantCardSimple } from './RestaurantCardSimple';

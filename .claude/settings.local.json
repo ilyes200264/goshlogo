@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep:*)",
+      "Bash(npx expo start:*)",
+      "Bash(rm:*)",
+      "Bash(sed:*)",
+      "Bash(npm run:*)"
+    ],
+    "deny": []
+  }
+}
